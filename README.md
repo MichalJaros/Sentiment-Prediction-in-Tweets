@@ -1,0 +1,1 @@
+Translation: This study involves sentiment analysis (positive/neutral/negative) of tweets. Machine learning models were used for the analysis. The data was obtained from https://www.kaggle.com/datasets/utkarshx27/sentiment-analysis.
